@@ -2,8 +2,8 @@
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Haruyuki — Independent Designer & Developer",
-  description: "Thoughtful digital experiences shaped with design and technology. Independent designer and developer based in Taipei.",
+  title: "Edhel John L. Zamora — Portfolio",
+  description: "Edhel John L. Zamora is a fourth-year Information Systems student at Samar State University, exploring thoughtful digital experiences through design and technology.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

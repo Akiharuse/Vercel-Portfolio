@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <main>
       <nav className="nav wrap" aria-label="Main navigation">
-        <a className="wordmark" href="#top" aria-label="HN, home">HN<span>.</span></a>
+        <a className="wordmark" href="#top" aria-label="EZ, home">EZ<span>.</span></a>
         <div className="nav-links">
           <a href="#work">Work</a>
           <a href="#about">About</a>
@@ -44,7 +44,7 @@ export default function Home() {
         <p className="eyebrow"><span className="dot" /> INDEPENDENT DESIGNER & DEVELOPER</p>
         <h1>Good ideas,<br />made <em>human.</em></h1>
         <div className="hero-bottom">
-          <p className="intro">Hey, I’m <strong>Haruyuki</strong> — I shape thoughtful digital experiences, from the first sketch to the final detail.</p>
+          <p className="intro">Hey, I’m <strong>Edhel John L. Zamora</strong> — a fourth-year Information Systems student shaping thoughtful digital experiences, from the first sketch to the final detail.</p>
           <a className="round-link" href="#work" aria-label="Explore selected work">↓</a>
         </div>
         <div className="hero-note">TAIPEI, TAIWAN&nbsp; · &nbsp;AVAILABLE WORLDWIDE</div>
@@ -80,8 +80,8 @@ export default function Home() {
         <div><p className="eyebrow">A LITTLE ABOUT ME</p><span className="about-index">01 — 04</span></div>
         <div className="about-copy">
           <h2>Curious by nature.<br /><em>Thoughtful by design.</em></h2>
-          <p>I like bringing ideas to life at the intersection of design and technology. I care about the little decisions that make something feel intuitive, the details that give it character, and the people who use it every day.</p>
-          <div className="skills" aria-label="Areas of focus"><span>PRODUCT DESIGN</span><span>FRONTEND</span><span>CREATIVE CODE</span><span>ART DIRECTION</span></div>
+          <p>I’m a fourth-year Information Systems student at Samar State University. I’m interested in how design and technology can solve everyday problems, and I enjoy exploring ideas through useful, carefully made digital experiences.</p>
+          <div className="skills" aria-label="Areas of focus"><span>INFORMATION SYSTEMS</span><span>PRODUCT DESIGN</span><span>FRONTEND</span><span>CREATIVE CODE</span></div>
         </div>
       </section>
 
@@ -89,7 +89,7 @@ export default function Home() {
         <p className="eyebrow">HAVE A GOOD ONE IN MIND?</p>
         <a className="footer-cta" href="mailto:hello@example.com">Let’s make<br /><em>something matter.</em><span aria-hidden="true">↗</span></a>
         <div className="footer-bottom">
-          <span>© 2025 HARUYUKI</span>
+          <span>© 2025 EDHEL JOHN L. ZAMORA</span>
           <div><a href="https://www.linkedin.com" target="_blank" rel="noreferrer">LINKEDIN ↗</a><a href="https://github.com" target="_blank" rel="noreferrer">GITHUB ↗</a><a href="mailto:hello@example.com">EMAIL ↗</a></div>
           <a href="#top">BACK TO TOP ↑</a>
         </div>
